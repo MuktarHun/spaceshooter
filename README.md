@@ -1,72 +1,67 @@
-# godot-wakatime
+# basic space shooter game with bugs
 
-Godot plugin for metrics, insights, and time tracking automatically generated from your Godot usage.
+Welcome to the **Space Shooter Game**! Built with the **Godot Engine**.
 
-- [godot-wakatime](#godot-wakatime)
-  - [Dependencies](#dependencies)
-  - [Installation](#installation)
-    - [Activation](#activation)
-  - [Configuration](#configuration)
-  - [Supported Godot \<\> Plugin versions](#supported-godot--plugin-versions)
+this is my fisrt game, this game is a learning experimant i get help of a youtube video from which i learned basics of godot and built this game. i know this game has lot of bugs and glitches but it's okay for me as bigginer to start. the reason why i am not fixing this bugs because of interest - in the process of learning i am making this game for a month because of very bigginer, now i want to work on a new story of a game and also in learning path working on same game is so boaring as all know the genz attention spen so let see in future i will make a greate game with greate story and playing experience with bug free
+---
 
+##  Game Screenshots
 
-![wakatime_dashboard](https://user-images.githubusercontent.com/1638660/40685625-24ec905a-636b-11e8-8c78-6d1ed833466d.png)
+### Main Menu & Ship Selection
+Start Screen 
 
+<img width="561" height="832" alt="Screenshot 2026-06-26 195611" src="https://github.com/user-attachments/assets/99c9450b-03e8-49ff-8161-54844d47fa86" />
 
-## Dependencies
-
-As there is no easy way to unzip files in GDScript, this plugin uses [Ouch!](https://github.com/ouch-org/ouch) to decompress Wakatime CLI right from the Github page.
-
-But there is no need to manually download it as the Godot Wakatime plugin automatically downloads, uses and deletes as needed
+Choose Your Spaceship
+<img width="552" height="780" alt="Screenshot 2026-06-26 195631" src="https://github.com/user-attachments/assets/278331af-492c-4587-a96c-dabe84a24053" />
 
 
-## Installation
+### Action-Packed Gameplay
 
-The easiest and fastest way is to install directly from Godot's AssetLib
-
-1. Access Godot's AssetLib inside the engine (`F4` default keybind)
-2. Search for `godot-wakatime` and click on install button
-
-Or, you can manually install the latest version following the next steps
-
-1. Download and extract latest zip file from [**releases**](https://github.com/thomazthz/godot-wakatime/releases).
-2. Copy or move the `wakatime` directory from the extracted zip and put into your project's `addons` directory. Create the `addons` directory at the root of your project if you don't have one.
+in game screen
+<img width="540" height="891" alt="Screenshot 2026-06-26 214352" src="https://github.com/user-attachments/assets/d579ba25-66b0-490e-8496-07a1921e45f3" />
 
 
-### Activation
+Game Over Screen
+<img width="451" height="668" alt="Screenshot 2026-06-26 214621" src="https://github.com/user-attachments/assets/aef808f4-5e3c-44c3-87a0-7da959fa46af" />
 
-- Activate `godot-wakatime` on Plugins tab at menu `Project -> Project Settings -> Plugins`.
-- Enter your Wakatime API Key on the opened prompt.
-- Use Godot script editor for a while and check on https://wakatime.com/api/v1/users/current or https://wakatime.com/dashboard to see your coding activity :)
-
-
-## Configuration
-
-**Godot WakaTime >=1.5.0**
-
-From version 1.5.0 this plugin started to use the global WakaTime config file (`$WAKATIME_HOME/.wakatime.cfg`) which can be opened in the `Project -> Tools -> Wakatime Config File` menu item.
-
-You can enter or replace your API key in the menu item `Project -> Tools -> Wakatime API key`.
-
-More information about the available settings can be found in [wakatime-cli usage page](https://github.com/wakatime/wakatime-cli/blob/develop/USAGE.md)
 
 ---
 
-**Godot WakaTime < 1.5.0**
+##  Features
 
-In versions prior to 1.5.0 the plugin uses a local configuration file located at `res://addons/wakatime/settings.cfg`.
+* **Two Spaceships:** * **MIO:** Fast-firing machine-gun style laser system for rapid, pin-point damage. maybe laser can glitch to no damage
+  * **TANK:** Heavy multi-directional split laser system to blast everything in sight across a wide range.
+* **Dynamic Difficulty Curve:** more Enemies 
+* **Fluid Controls:** Intuitive mouse-based steering coupled with auto-fire capabilities.
 
-Some settings are available in the editor bottom panel as soon as the plugin is active
+---
 
+## Controls & How to Play
 
+Playing this game is super simple, fast-paced, and satisfying:
 
-## Supported Godot <> Plugin versions
+* **Move Your Ship:** Hold **Left Mouse Click** and drag your cursor anywhere on the game window. The ship will smoothly follow your movement.
+* **Fire Lasers:** Your ship automatically fires lasers at an incredible speed as long as you keep holding down the **Left Mouse Click** while moving!
+* **Objective:** Blast incoming enemy ships, rack up points, and avoid colliding with rogue meteors or enemy hulls. 
 
-|     Godot     | Godot Wakatime |
-| :-----------: | :------------: |
-| 3.3.x - 3.5.x |     v1.4.0     |
-|    >=4.0.x    |     v1.5.0     |
+---
 
-Tested **Windows** and **Linux**.
+## How to Download and Play
 
-It has Mac OS support as well, but has not yet been tested.
+Follow these simple steps to play the desktop version on your PC:
+
+1. Go to the download section on this Itch.io page and click the **Download** button.
+2. Extract the downloaded `.zip` folder into a clean folder on your computer.
+3. Open the extracted folder and double-click the main executable file (e.g., `SpaceShooter.exe` on Windows).
+4. Launch and enjoy the game! No complicated installation required.
+
+---
+
+## Built With
+
+* **Engine:** Godot Engine (GDScript)
+* **Graphics:** 2d space assets
+* **Platform Support:** Standalone PC / Desktop
+
+finallyyyyyyyyyy
