@@ -36,9 +36,13 @@ Game Over Screen
 Features
 
 Two Spaceships: 
+
 MIO: Fast-firing machine-gun style laser system for rapid, pin-point damage. maybe laser can glitch to no damage
+
 TANK: Heavy multi-directional split laser system to blast everything in sight across a wide range.
+
 Difficulty: more Enemies 
+
 Controls: mouse-based control with auto-fire capabilities.
 
 ---
@@ -46,12 +50,13 @@ Controls: mouse-based control with auto-fire capabilities.
 How to Play:
 No downloads required! You can play this game instantly right here in your browser window.
 
- Game Controls
+Game Controls
 Move Ship: Click and hold your Left Mouse Button, then drag your cursor anywhere on the game screen. Your spaceship will smoothly follow your movement.
 
 Attack: ship fires lasers automatically at a super-fast speed as long as you keep holding down the Left Mouse Button while moving!
 
 Objective: Shoot down enemy spaceships, and try to break highest score
+
 ---
 
 ## Built With
