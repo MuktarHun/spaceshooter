@@ -1,6 +1,6 @@
 # basic space shooter game with bugs
 
-Welcome to the **Space Shooter Game**! Built with the **Godot Engine**.
+Welcome to the Space Shooter Game Built with the Godot Engine.
 
 this is my fisrt game, this game is a learning experimant i get help of a youtube video from which i learned basics of godot and built this game. i know this game has lot of bugs and glitches but it's okay for me as bigginer to start. the reason why i am not fixing this bugs because of interest - in the process of learning i am making this game for a month because of very bigginer, now i want to work on a new story of a game and also in learning path working on same game is so boaring as all know the genz attention spen so let see in future i will make a greate game with greate story and playing experience with bug free
 ---
@@ -28,24 +28,14 @@ Game Over Screen
 <img width="451" height="668" alt="Screenshot 2026-06-26 214621" src="https://github.com/user-attachments/assets/aef808f4-5e3c-44c3-87a0-7da959fa46af" />
 
 
----
 
-##  Features
+Features
 
-* **Two Spaceships:** * **MIO:** Fast-firing machine-gun style laser system for rapid, pin-point damage. maybe laser can glitch to no damage
-  * **TANK:** Heavy multi-directional split laser system to blast everything in sight across a wide range.
-* **Dynamic Difficulty Curve:** more Enemies 
-* **Fluid Controls:** Intuitive mouse-based steering coupled with auto-fire capabilities.
-
----
-
-## Controls & How to Play
-
-Playing this game is super simple, fast-paced, and satisfying:
-
-* **Move Your Ship:** Hold **Left Mouse Click** and drag your cursor anywhere on the game window. The ship will smoothly follow your movement.
-* **Fire Lasers:** Your ship automatically fires lasers at an incredible speed as long as you keep holding down the **Left Mouse Click** while moving!
-* **Objective:** Blast incoming enemy ships, rack up points, and avoid colliding with rogue meteors or enemy hulls. 
+Two Spaceships: 
+MIO: Fast-firing machine-gun style laser system for rapid, pin-point damage. maybe laser can glitch to no damage
+TANK: Heavy multi-directional split laser system to blast everything in sight across a wide range.
+Difficulty: more Enemies 
+Controls: mouse-based control with auto-fire capabilities.
 
 ---
 
