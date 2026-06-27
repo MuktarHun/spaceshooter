@@ -7,9 +7,9 @@ this is my fisrt game, this game is a learning experimant i get help of a youtub
 
 game link: https://gamet0p.itch.io/basic-space-shoot-with-bugs
 
-##  Game Screenshots
+Game Screenshots
 
-### Main Menu & Ship Selection
+Main Menu & Ship Selection
 Start Screen 
 
 <img width="561" height="832" alt="Screenshot 2026-06-26 195611" src="https://github.com/user-attachments/assets/99c9450b-03e8-49ff-8161-54844d47fa86" />
