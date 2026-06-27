@@ -5,6 +5,10 @@ Welcome to the Space Shooter Game Built with the Godot Engine.
 this is my fisrt game, this game is a learning experimant i get help of a youtube video from which i learned basics of godot and built this game. i know this game has lot of bugs and glitches but it's okay for me as bigginer to start. the reason why i am not fixing this bugs because of interest - in the process of learning i am making this game for a month because of very bigginer, now i want to work on a new story of a game and also in learning path working on same game is so boaring as all know the genz attention spen so let see in future i will make a greate game with greate story and playing experience with bug free
 ---
 
+to make this fist game i use a youtube video : https://youtu.be/8QKoUBCwNbo?si=DxMFpb-aK9gf84aw
+
+and also everything is not same so in my game i face problems as you know as bugs to find and know for which logic in script this happaning and so to solve this i use ai to know what i can do to solve and many understanding about godot as i am bigginer 
+
 game link: https://gamet0p.itch.io/basic-space-shoot-with-bugs
 
 Game Screenshots
