@@ -5,6 +5,8 @@ Welcome to the **Space Shooter Game**! Built with the **Godot Engine**.
 this is my fisrt game, this game is a learning experimant i get help of a youtube video from which i learned basics of godot and built this game. i know this game has lot of bugs and glitches but it's okay for me as bigginer to start. the reason why i am not fixing this bugs because of interest - in the process of learning i am making this game for a month because of very bigginer, now i want to work on a new story of a game and also in learning path working on same game is so boaring as all know the genz attention spen so let see in future i will make a greate game with greate story and playing experience with bug free
 ---
 
+game link: https://gamet0p.itch.io/basic-space-shoot-with-bugs
+
 ##  Game Screenshots
 
 ### Main Menu & Ship Selection
@@ -47,15 +49,15 @@ Playing this game is super simple, fast-paced, and satisfying:
 
 ---
 
-## How to Download and Play
+How to Play:
+No downloads required! You can play this game instantly right here in your browser window.
 
-Follow these simple steps to play the desktop version on your PC:
+ Game Controls
+Move Ship: Click and hold your Left Mouse Button, then drag your cursor anywhere on the game screen. Your spaceship will smoothly follow your movement.
 
-1. Go to the download section on this Itch.io page and click the **Download** button.
-2. Extract the downloaded `.zip` folder into a clean folder on your computer.
-3. Open the extracted folder and double-click the main executable file (e.g., `SpaceShooter.exe` on Windows).
-4. Launch and enjoy the game! No complicated installation required.
+Attack: ship fires lasers automatically at a super-fast speed as long as you keep holding down the Left Mouse Button while moving!
 
+Objective: Shoot down enemy spaceships, and try to break highest score
 ---
 
 ## Built With
